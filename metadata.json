@@ -1,0 +1,5 @@
+{
+  "name": "HireSync AI - Resume Screener",
+  "description": "A professional resume screening and candidate ranking tool powered by Gemini 3. It parses PDF resumes, compares them against job descriptions, and provides data-driven matching scores and skills gap analysis.",
+  "requestFramePermissions": []
+}
